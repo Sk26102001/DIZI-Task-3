@@ -24,7 +24,7 @@ export default function SubscriptionPage() {
       {/* Large screen image */}
       <div className="hidden lg:flex justify-center mb-6">
         <img
-          src="/early-childhood-education-Photoroom-removebg-preview.png"
+          src="./early-childhood-education-Photoroom-removebg-preview.png"
           alt="Girl"
           className="w-[350px] xl:w-[400px] h-auto object-contain -mt-10"
         />
@@ -33,7 +33,7 @@ export default function SubscriptionPage() {
       {/* Small screen image */}
       <div className="lg:hidden flex justify-center mb-4">
         <img
-          src="/down-removebg-preview.png"
+          src="./down-removebg-preview.png"
           alt="Girl"
           className="w-[280px] sm:w-[340px] md:w-[400px] h-auto object-contain"
         />
